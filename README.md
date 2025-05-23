@@ -7,7 +7,7 @@
 
 - **Backend** : **PHP (avec MySQL), Node.js (en cours d’apprentissage)**
 
-- **Stagito.fr** : [Plateforme de gestion et suivi des stages et alternances (React + PHP/MySQL)](Plateforme de gestion et suivi des stages et alternances (React + PHP/MySQL))
+- **Stagito.fr** : [Plateforme de gestion et suivi des stages et alternances (PHP/MySQL et v2 en préparation avec next.js)]
 
 - **Outils** : **Git & GitHub, Visual Studio Code, HTTPie, Figma, Notion**
 
