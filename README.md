@@ -13,7 +13,7 @@
 
 - **Bonnes pratiques** : **Authentification sécurisée, architecture propre, responsive design**
 
-- **Petit Bac Online** : [Jeu en ligne multijoueur autour du célèbre jeu du baccalauréat (React + vérification de mots dynamique)](Jeu en ligne multijoueur autour du célèbre jeu du baccalauréat (React + vérification de mots dynamique))
+- **Petit Bac Online** : [Jeu en ligne multijoueur autour du célèbre jeu du baccalauréat (React + vérification de mots dynamique)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
