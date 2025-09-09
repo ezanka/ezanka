@@ -1,26 +1,24 @@
-<h1 align="center">👋 Bienvenue sur mon GitHub !</h1>
-<h3 align="center">Je suis développeur web passionné, actuellement en formation en BTS SIO option SLAM. Je travaille principalement avec **Next.js**, **React**, **Tailwind CSS**, **MySQL** et **PHP**, et je m'intéresse de plus en plus aux bonnes pratiques en matière de sécurité, d'authentification (JWT, NextAuth), et de développement SaaS.</h3>
+# 💫 About Me:
+Étudiant en BTS SIO SLAM, passionné par le dev et les idées qui deviennent concrètes.
 
-- **Base de données** : **MySQL, PostgreSQL (en cours d'apprentissage), Prisma ORM**
 
-- **Frontend** : **React, Next.js (App Router), Tailwind CSS, HTML, CSS, JavaScript / TypeScript**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ethan D’aietti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daiettiethan@gmail.com) 
 
-- **Backend** : **PHP (avec MySQL), Node.js (en cours d’apprentissage)**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ezanka&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ezanka&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezanka&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- **Stagito.fr** : [Plateforme de gestion et suivi des stages et alternances (PHP/MySQL et v2 en préparation avec next.js)]
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ezanka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- **Outils** : **Git & GitHub, Visual Studio Code, HTTPie, Figma, Notion**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ezanka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- **Bonnes pratiques** : **Authentification sécurisée, architecture propre, responsive design**
+---
+[![](https://visitcount.itsvg.in/api?id=ezanka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **Petit Bac Online** : [Jeu en ligne multijoueur autour du célèbre jeu du baccalauréat (React + vérification de mots dynamique)]
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ethan d’aietti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethan d’aietti" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezanka&show_icons=true&locale=en" alt="ezanka" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
